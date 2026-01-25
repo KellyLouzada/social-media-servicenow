@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>chanel</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-24 23:13:52</sys_created_on>
+        <sys_id>0bf99347936afa504aa43d6efaba10b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chanel</sys_name>
+        <sys_package display_value="Social Media Management" source="x_1793665_social_0">e1dec7bd93a2b2504aa43d6efaba1007</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">e1dec7bd93a2b2504aa43d6efaba1007</sys_scope>
+        <sys_update_name>sys_ui_policy_action_0bf99347936afa504aa43d6efaba10b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-24 23:13:52</sys_updated_on>
+        <table>x_1793665_social_0_post</table>
+        <ui_policy display_value="Regras do Formulário Post">31b99b07936afa504aa43d6efaba105b</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=0bf99347936afa504aa43d6efaba10b8"/>
+</record_update>
