@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f55fc7fd93a2b2504aa43d6efaba108a" label="Channel" max_length="40" name="x_1793665_social_0_channel" type="collection">
+        <element label="Observations" max_length="500" name="observations" type="string"/>
+        <element label="Number of Followers" max_length="40" name="number_of_followers" type="integer"/>
+        <element label="Profile" max_length="40" name="profile" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Youtube" sequence="3" value="youtube"/>
+                <element inactive_on_update="false" label="Instagram" sequence="1" value="instagram"/>
+                <element inactive_on_update="false" label="Facebook" sequence="0" value="facebook"/>
+                <element inactive_on_update="false" label="Linkedin" sequence="2" value="linkedin"/>
+            </choice>
+        </element>
+        <element label="Username" max_length="100" name="username" type="string"/>
+        <element label="Passaword" max_length="100" name="passaword" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Number of Posts" max_length="40" name="number_of_posts" type="integer"/>
+    </element>
+</database>

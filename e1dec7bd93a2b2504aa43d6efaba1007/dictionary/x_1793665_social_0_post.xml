@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f361533593e2b2504aa43d6efaba1022" extends="task" label="Post" max_length="40" name="x_1793665_social_0_post" type="collection">
+        <element label="Publication date" max_length="40" name="publication_date" type="glide_date"/>
+        <element label="End follow-up" max_length="255" name="end_follow_up" type="boolean"/>
+        <element label="Content" max_length="500" name="content" type="html"/>
+        <element label="Channel" max_length="32" name="chanel" reference="x_1793665_social_0_channel" type="reference"/>
+        <element choice="1" label="Total of Clicks" max_length="40" name="total_of_clicks" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-500" sequence="0" value="500"/>
+                <element inactive_on_update="false" label="1000 to 5000" sequence="2" value="to_5000"/>
+                <element inactive_on_update="false" label="500 to 1000" sequence="1" value="to_1000"/>
+                <element inactive_on_update="false" label="5000" sequence="3" value=" 5000"/>
+            </choice>
+        </element>
+    </element>
+</database>

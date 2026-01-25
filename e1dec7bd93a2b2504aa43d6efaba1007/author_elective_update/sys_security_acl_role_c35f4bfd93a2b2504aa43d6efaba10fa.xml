@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-21 01:13:27</sys_created_on>
+        <sys_id>c35f4bfd93a2b2504aa43d6efaba10fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1793665_social_0_channel.x_1793665_social_0.user</sys_name>
+        <sys_package display_value="Social Media Management" source="x_1793665_social_0">e1dec7bd93a2b2504aa43d6efaba1007</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">e1dec7bd93a2b2504aa43d6efaba1007</sys_scope>
+        <sys_security_acl display_value="x_1793665_social_0_channel">8f5f4bfd93a2b2504aa43d6efaba10f4</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c35f4bfd93a2b2504aa43d6efaba10fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-21 01:13:27</sys_updated_on>
+        <sys_user_role display_value="x_1793665_social_0.user" name="x_1793665_social_0.user">61dec7bd93a2b2504aa43d6efaba104d</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Social Media Management">e1dec7bd93a2b2504aa43d6efaba1007</application>
+        <file_path/>
+        <instance_id>cd0bef65eb11aa9cc040fddacad0cd0b</instance_id>
+        <instance_name>dev342970</instance_name>
+        <name>sys_security_acl_role_c35f4bfd93a2b2504aa43d6efaba10fa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-01-21 01:13:27</sys_created_on><sys_id>c35f4bfd93a2b2504aa43d6efaba10fa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1793665_social_0_channel.x_1793665_social_0.user</sys_name><sys_package display_value="Social Media Management" source="x_1793665_social_0">e1dec7bd93a2b2504aa43d6efaba1007</sys_package><sys_policy/><sys_scope display_value="Social Media Management">e1dec7bd93a2b2504aa43d6efaba1007</sys_scope><sys_security_acl display_value="x_1793665_social_0_channel">8f5f4bfd93a2b2504aa43d6efaba10f4</sys_security_acl><sys_update_name>sys_security_acl_role_c35f4bfd93a2b2504aa43d6efaba10fa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-01-21 01:13:27</sys_updated_on><sys_user_role display_value="x_1793665_social_0.user" name="x_1793665_social_0.user">61dec7bd93a2b2504aa43d6efaba104d</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>922476415</payload_hash>
+        <record_name>x_1793665_social_0_channel.x_1793665_social_0.user</record_name>
+        <reverted_from/>
+        <source>a5dec7bd93a2b2504aa43d6efaba1035</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-21 01:13:27</sys_created_on>
+        <sys_id>cf5f8bfd93a2b2504aa43d6efaba100b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19bde1d17c20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-21 01:13:27</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>cb5f8bfd00a2b250d3b2b79e853ab30a</update_guid>
+        <update_guid_history>cb5f8bfd00a2b250d3b2b79e853ab30a:922476415</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1793665_social_0_channel.x_1793665_social_0.user">a1d8d456936a36504aa43d6efaba10c1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-22 01:12:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>88737240c5c648bc9bd8c1ee0474a9e9</sys_id>
+        <sys_metadata>c35f4bfd93a2b2504aa43d6efaba10fa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1793665_social_0_channel.x_1793665_social_0.user</sys_name>
+        <sys_package display_value="Social Media Management" source="x_1793665_social_0">e1dec7bd93a2b2504aa43d6efaba1007</sys_package>
+        <sys_parent display_value="x_1793665_social_0_channel">8f5f4bfd93a2b2504aa43d6efaba10f4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">e1dec7bd93a2b2504aa43d6efaba1007</sys_scope>
+        <sys_scope_delete display_value="">2c8961ceebe94d809d77a2316cfa8400</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_c35f4bfd93a2b2504aa43d6efaba10fa</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_c35f4bfd93a2b2504aa43d6efaba10fa">cf5f8bfd93a2b2504aa43d6efaba100b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-22 01:12:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
