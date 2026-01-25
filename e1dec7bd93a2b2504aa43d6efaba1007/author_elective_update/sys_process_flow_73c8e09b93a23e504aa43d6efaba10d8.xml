@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow">
+    <sys_process_flow action="DELETE">
+        <active>true</active>
+        <condition table="x_1793665_social_0_post">state=2^EQ<item display_value="Published" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="2"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <label>Published</label>
+        <name>Published</name>
+        <order>200</order>
+        <sys_class_name>sys_process_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-25 04:57:03</sys_created_on>
+        <sys_id>73c8e09b93a23e504aa43d6efaba10d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Published</sys_name>
+        <sys_package display_value="Social Media Management" source="x_1793665_social_0">e1dec7bd93a2b2504aa43d6efaba1007</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">e1dec7bd93a2b2504aa43d6efaba1007</sys_scope>
+        <sys_update_name>sys_process_flow_73c8e09b93a23e504aa43d6efaba10d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-25 04:57:03</sys_updated_on>
+        <table>x_1793665_social_0_post</table>
+    </sys_process_flow>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Social Media Management">e1dec7bd93a2b2504aa43d6efaba1007</application>
+        <file_path/>
+        <instance_id>cd0bef65eb11aa9cc040fddacad0cd0b</instance_id>
+        <instance_name>dev342970</instance_name>
+        <name>sys_process_flow_73c8e09b93a23e504aa43d6efaba10d8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow"><sys_process_flow action="INSERT_OR_UPDATE"><active>true</active><condition table="x_1793665_social_0_post">state=2^EQ<item display_value="Published" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="2"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><description/><label>Published</label><name>Published</name><order>200</order><sys_class_name>sys_process_flow</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-01-25 04:57:03</sys_created_on><sys_id>73c8e09b93a23e504aa43d6efaba10d8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Published</sys_name><sys_package display_value="Social Media Management" source="x_1793665_social_0">e1dec7bd93a2b2504aa43d6efaba1007</sys_package><sys_policy/><sys_scope display_value="Social Media Management">e1dec7bd93a2b2504aa43d6efaba1007</sys_scope><sys_update_name>sys_process_flow_73c8e09b93a23e504aa43d6efaba10d8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-01-25 04:57:03</sys_updated_on><table>x_1793665_social_0_post</table></sys_process_flow></record_update>]]></payload>
+        <payload_hash>1869080553</payload_hash>
+        <record_name>Published</record_name>
+        <reverted_from/>
+        <source>f7cea38793eafa504aa43d6efaba102b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-25 04:57:03</sys_created_on>
+        <sys_id>29e8245b93a23e504aa43d6efaba1076</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19bf383408e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-25 04:57:03</sys_updated_on>
+        <type>Flow Formatter</type>
+        <update_guid>25e8245b7aa23e506424f68db5de6175</update_guid>
+        <update_guid_history>25e8245b7aa23e506424f68db5de6175:1869080553</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-25 05:01:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_process_flow">sys_process_flow</sys_db_object>
+        <sys_id>63bac56ac1274d54bd3213e8a9c16b90</sys_id>
+        <sys_metadata>73c8e09b93a23e504aa43d6efaba10d8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Published</sys_name>
+        <sys_package display_value="Social Media Management" source="x_1793665_social_0">e1dec7bd93a2b2504aa43d6efaba1007</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">e1dec7bd93a2b2504aa43d6efaba1007</sys_scope>
+        <sys_scope_delete display_value="">2c8961ceebe94d809d77a2316cfa8400</sys_scope_delete>
+        <sys_update_name>sys_process_flow_73c8e09b93a23e504aa43d6efaba10d8</sys_update_name>
+        <sys_update_version display_value="sys_process_flow_73c8e09b93a23e504aa43d6efaba10d8">29e8245b93a23e504aa43d6efaba1076</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-25 05:01:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

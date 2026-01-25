@@ -1,219 +1,175 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="" section_id="1c719bb193e2b2504aa43d6efaba1080" sys_domain="global" table="x_1793665_social_0_post" version="3" view="">
-        <sys_ui_annotation action="INSERT_OR_UPDATE">
-            <is_plain_text>false</is_plain_text>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 23:09:57</sys_created_on>
-            <sys_id>7079d7c3936afa504aa43d6efaba1070</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 23:09:57</sys_updated_on>
-            <text>&lt;b&gt;Remember:&lt;/b&gt;&#13;
-&#13;
-Enter the publication date only on the day it occurs. This will update the "Status" to "Published."&#13;
-&#13;
-&#13;
-When the post follow-up is finished, check the "End follow-up" field so that the "Status" is updated to "Closed."</text>
-            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
-        </sys_ui_annotation>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>7079d7c3936afa504aa43d6efaba1070</element>
-            <position>0</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 23:09:57</sys_created_on>
-            <sys_id>cd799307936afa504aa43d6efaba1018</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 23:09:57</sys_updated_on>
-            <sys_user/>
-            <type>annotation</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>process_flow.xml</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 23:09:57</sys_created_on>
-            <sys_id>4d799307936afa504aa43d6efaba1019</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter display_value="Process Flow">44f7d343936afa504aa43d6efaba108d</sys_ui_formatter>
-            <sys_ui_section caption="NULL" display_value="" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 23:09:57</sys_updated_on>
-            <sys_user/>
-            <type>formatter</type>
-        </sys_ui_element>
+    <sys_ui_section caption="Post" section_id="1c719bb193e2b2504aa43d6efaba1080" sys_domain="global" table="x_1793665_social_0_post" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
-            <position>2</position>
+            <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 23:09:57</sys_created_on>
-            <sys_id>45799307936afa504aa43d6efaba101b</sys_id>
+            <sys_created_on>2026-01-25 04:42:18</sys_created_on>
+            <sys_id>9585acd393a23e504aa43d6efaba10c2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
+            <sys_ui_section caption="Post" display_value="Post" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 23:09:57</sys_updated_on>
+            <sys_updated_on>2026-01-25 04:42:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>chanel</element>
-            <position>3</position>
+            <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 23:09:57</sys_created_on>
-            <sys_id>c1799307936afa504aa43d6efaba101c</sys_id>
+            <sys_created_on>2026-01-25 04:42:18</sys_created_on>
+            <sys_id>1585acd393a23e504aa43d6efaba10c3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
+            <sys_ui_section caption="Post" display_value="Post" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 23:09:57</sys_updated_on>
+            <sys_updated_on>2026-01-25 04:42:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>publication_date</element>
-            <position>4</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 23:09:57</sys_created_on>
-            <sys_id>41799307936afa504aa43d6efaba101d</sys_id>
+            <sys_created_on>2026-01-25 04:42:18</sys_created_on>
+            <sys_id>9185acd393a23e504aa43d6efaba10c4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
+            <sys_ui_section caption="Post" display_value="Post" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 23:09:57</sys_updated_on>
+            <sys_updated_on>2026-01-25 04:42:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>5</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 23:09:57</sys_created_on>
-            <sys_id>cd799307936afa504aa43d6efaba101d</sys_id>
+            <sys_created_on>2026-01-25 04:42:18</sys_created_on>
+            <sys_id>1185acd393a23e504aa43d6efaba10c5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
+            <sys_ui_section caption="Post" display_value="Post" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 23:09:57</sys_updated_on>
+            <sys_updated_on>2026-01-25 04:42:18</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>6</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 23:09:57</sys_created_on>
-            <sys_id>4d799307936afa504aa43d6efaba101e</sys_id>
+            <sys_created_on>2026-01-25 04:42:18</sys_created_on>
+            <sys_id>9d85acd393a23e504aa43d6efaba10c5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
+            <sys_ui_section caption="Post" display_value="Post" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 23:09:57</sys_updated_on>
+            <sys_updated_on>2026-01-25 04:42:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>total_of_clicks</element>
-            <position>7</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 23:09:57</sys_created_on>
-            <sys_id>c9799307936afa504aa43d6efaba101f</sys_id>
+            <sys_created_on>2026-01-25 04:42:18</sys_created_on>
+            <sys_id>1d85acd393a23e504aa43d6efaba10c6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
+            <sys_ui_section caption="Post" display_value="Post" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 23:09:57</sys_updated_on>
+            <sys_updated_on>2026-01-25 04:42:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>end_follow_up</element>
-            <position>8</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 23:09:57</sys_created_on>
-            <sys_id>49799307936afa504aa43d6efaba1020</sys_id>
+            <sys_created_on>2026-01-25 04:42:18</sys_created_on>
+            <sys_id>9985acd393a23e504aa43d6efaba10c7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
+            <sys_ui_section caption="Post" display_value="Post" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 23:09:57</sys_updated_on>
+            <sys_updated_on>2026-01-25 04:42:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>9</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 23:09:57</sys_created_on>
-            <sys_id>c5799307936afa504aa43d6efaba1021</sys_id>
+            <sys_created_on>2026-01-25 04:42:18</sys_created_on>
+            <sys_id>dd85acd393a23e504aa43d6efaba10d4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
+            <sys_ui_section caption="Post" display_value="Post" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 23:09:57</sys_updated_on>
+            <sys_updated_on>2026-01-25 04:42:18</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>10</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 23:09:57</sys_created_on>
-            <sys_id>45799307936afa504aa43d6efaba1022</sys_id>
+            <sys_created_on>2026-01-25 04:42:18</sys_created_on>
+            <sys_id>5d85acd393a23e504aa43d6efaba10d5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
+            <sys_ui_section caption="Post" display_value="Post" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 23:09:57</sys_updated_on>
+            <sys_updated_on>2026-01-25 04:42:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>content</element>
-            <position>11</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 23:09:57</sys_created_on>
-            <sys_id>c1799307936afa504aa43d6efaba1023</sys_id>
+            <sys_created_on>2026-01-25 04:42:18</sys_created_on>
+            <sys_id>d985acd393a23e504aa43d6efaba10d6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
+            <sys_ui_section caption="Post" display_value="Post" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 23:09:57</sys_updated_on>
+            <sys_updated_on>2026-01-25 04:42:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>comments</element>
-            <position>12</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 23:09:57</sys_created_on>
-            <sys_id>41799307936afa504aa43d6efaba1024</sys_id>
+            <sys_created_on>2026-01-25 04:42:18</sys_created_on>
+            <sys_id>5985acd393a23e504aa43d6efaba10d7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
+            <sys_ui_section caption="Post" display_value="Post" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 23:09:57</sys_updated_on>
+            <sys_updated_on>2026-01-25 04:42:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>work_notes</element>
-            <position>13</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 23:09:57</sys_created_on>
-            <sys_id>cd799307936afa504aa43d6efaba1024</sys_id>
+            <sys_created_on>2026-01-25 04:42:18</sys_created_on>
+            <sys_id>d585acd393a23e504aa43d6efaba10d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
+            <sys_ui_section caption="Post" display_value="Post" name="x_1793665_social_0_post" sys_domain="global" view="Default view">1c719bb193e2b2504aa43d6efaba1080</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 23:09:57</sys_updated_on>
+            <sys_updated_on>2026-01-25 04:42:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption/>
+            <caption>Post</caption>
             <header>false</header>
             <name>x_1793665_social_0_post</name>
             <roles/>
@@ -223,7 +179,7 @@ When the post follow-up is finished, check the "End follow-up" field so that the
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>1c719bb193e2b2504aa43d6efaba1080</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_name>x_1793665_social_0_post</sys_name>
             <sys_overrides/>
             <sys_package display_value="Social Media Management" source="x_1793665_social_0">e1dec7bd93a2b2504aa43d6efaba1007</sys_package>
@@ -231,7 +187,7 @@ When the post follow-up is finished, check the "End follow-up" field so that the
             <sys_scope display_value="Social Media Management">e1dec7bd93a2b2504aa43d6efaba1007</sys_scope>
             <sys_update_name>sys_ui_section_1c719bb193e2b2504aa43d6efaba1080</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-21 01:22:32</sys_updated_on>
+            <sys_updated_on>2026-01-25 04:42:17</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

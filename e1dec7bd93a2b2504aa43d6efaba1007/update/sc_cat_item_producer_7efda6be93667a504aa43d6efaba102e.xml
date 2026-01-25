@@ -82,11 +82,9 @@
 * Avoid `current.setAbortAction()` and generate a separate record
 * Use `producer.var1` to access variables
 */
-// Redireciona o usuário para a página inicial do Employee Center após o envio
-producer.portal_redirect = "?id=esc_dashboard";
 
-// Adiciona uma mensagem de sucesso que aparecerá no topo da tela
-gs.addInfoMessage("Your social media post has been submitted successfully!");]]></script>
+
+]]></script>
         <short_description>Use this item to submit your post!</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
@@ -95,14 +93,14 @@ gs.addInfoMessage("Your social media post has been submitted successfully!");]]>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-01-24 02:40:32</sys_created_on>
         <sys_id>7efda6be93667a504aa43d6efaba102e</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name>New Social Media Post</sys_name>
         <sys_package display_value="Social Media Management" source="x_1793665_social_0">e1dec7bd93a2b2504aa43d6efaba1007</sys_package>
         <sys_policy/>
         <sys_scope display_value="Social Media Management">e1dec7bd93a2b2504aa43d6efaba1007</sys_scope>
         <sys_update_name>sc_cat_item_producer_7efda6be93667a504aa43d6efaba102e</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2026-01-24 22:42:32</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-25 04:10:13</sys_updated_on>
         <table_name>x_1793665_social_0_post</table_name>
         <taxonomy_topic/>
         <template/>
@@ -110,7 +108,7 @@ gs.addInfoMessage("Your social media post has been submitted successfully!");]]>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>12</version>
+        <version>15</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
