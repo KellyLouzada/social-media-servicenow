@@ -1,6 +1,6 @@
 # 📱 Social Media Manager - Bootcamp Aoop
 
-## 📋 Descrição do Projeto
+Descrição do Projeto
 Este projeto foi desenvolvido como o desafio final do bootcamp da **Aoop**, seguindo todos os requisitos técnicos e funcionais solicitados. A aplicação tem como objetivo automatizar o gerenciamento de mídias sociais dentro da plataforma ServiceNow.
 
 ## 🎯 Requisitos Atendidos
@@ -18,4 +18,7 @@ De acordo com as diretrizes do treinamento, as seguintes funcionalidades foram i
 
 ## 🚀 Conclusão
 A entrega deste projeto demonstra a consolidação dos conhecimentos práticos em desenvolvimento na plataforma ServiceNow, reforçando a habilidade de transformar requisitos de negócio em soluções técnicas funcionais.
+
 ## 👉🏻 Clique aqui para ver o resultado completo do [Projeto](https://youtu.be/K0-iIO8S5vc) 
+
+## ![9fc50b6c-1dba-4a0c-95c0-ae1186dc4023](https://github.com/user-attachments/assets/54307b9b-a6d9-4a15-a1aa-f6cfea838d46)
